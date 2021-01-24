@@ -37,6 +37,7 @@
                 <version>0.0.4</version>
                 <configuration>
                     <mainClass>org.sunjc.App</mainClass>
+                    <executable>/home/sunjc826/.jdks/openjdk-15.0.1/bin/java</executable>
                 </configuration>
             </plugin>
         </plugins>
