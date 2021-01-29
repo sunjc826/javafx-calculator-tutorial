@@ -1,2 +1,4 @@
-org/sunjc/App.class
 org/sunjc/controller/CalculatorController.class
+org/sunjc/controller/HistoryController.class
+org/sunjc/App.class
+org/sunjc/utils/EvaluateString.class
